@@ -3,4 +3,4 @@
 - html.
 - Css (StyleSheet , MediaSheet).
 - images.
-  [My Page].(https://gogle.ps).
+  [My Page].https://yafamuin.github.io/KYTC/
